@@ -91,7 +91,7 @@ Acreditamos que no desafio existem diversos detalhes como paginação, filtragem
 - React
 - Styled Components
 - Axios
-- Materia UI
+- Material UI
 
 <br>
 
