@@ -116,6 +116,8 @@ $ npm -v
 
 ```bash
 
+#Abrir o terminal bash
+
 # Clonar repositório
 $ git clone https://github.com/RicardoMejolaro/smarts-dashboard-com-nodejs-e-reactjs.git
 
@@ -123,6 +125,9 @@ $ git clone https://github.com/RicardoMejolaro/smarts-dashboard-com-nodejs-e-rea
 #Para iniciar o BACKEND
 
 #Entrar no diretório
+$ cd smarts-dashboard
+
+#Depois no diretório
 $ cd smarts-dashboard-backend
 
 #Com o terminal aberto rodar o comando
@@ -135,7 +140,12 @@ $ npm start
 
 #Para iniciar o FRONTEND
 
+#Abrir outro terminal bash no diretório onde foi feito o clone
+
 #Entrar no diretório
+$ cd smarts-dashboard
+
+#Depois no diretório
 $ cd smarts-dashboard-frontend
 
 #Com o terminal aberto rodar o comando
