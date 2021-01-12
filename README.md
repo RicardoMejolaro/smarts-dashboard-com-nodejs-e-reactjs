@@ -116,8 +116,8 @@ $ npm -v
 
 ```bash
 
-# Clonar o repositório
-$ git clone https://github.com/RicardoMejolaro/Smartdashboard-com-NodeJS-e-ReactJS.git
+# Clonar repositório
+$ git clone https://github.com/RicardoMejolaro/smarts-dashboard-com-nodejs-e-reactjs.git
 
 
 #Para iniciar o BACKEND
